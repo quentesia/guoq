@@ -1,0 +1,5 @@
+
+qiskit >= 1.0
+bqskit
+numpy
+pyzx
