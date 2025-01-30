@@ -32,7 +32,7 @@ jobs:
         LATEST_TAG=$(git describe --tags --always --abbrev=0)
         REPOSITORY="qqq-wisc/wisq"
         FOLDER="bin/$REPOSITORY"
-        BRANCH_NAME="upgate-guoq-jar-$LATEST_TAG"
+        BRANCH_NAME="upgate-guoq-$LATEST_TAG"
 
         # Clone the remote repository and change working directory to the
         # folder it was cloned to.
@@ -57,7 +57,7 @@ jobs:
 
         # Commit the changes and push the feature branch to origin
         git add .
-        git commit -m "Update GUOQ JAR to $LATEST_TAG"
+        git commit -m "Update GUOQ JAR and resynth.py to $LATEST_TAG"
         git push origin $BRANCH_NAME
 
         # Store the PAT in a file that can be accessed by the
@@ -69,7 +69,7 @@ jobs:
         gh auth login --with-token < token.txt
         gh pr create \
           --body "" \
-          --title "Update GUOQ JAR to $LATEST_TAG" \
+          --title "Update GUOQ JAR and resynth.py to $LATEST_TAG" \
           --head "$BRANCH_NAME" \
           --base "main"
       
