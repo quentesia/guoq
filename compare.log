@@ -1,0 +1,1056 @@
+Processing all hardware found in results/guoq_results (excluding any specified skips): ibm ibmnew ion nam_rz nam_t_tdg
+
+[INFO] TKET results directory found: results/tket_results. Will attempt to find matching results.
+[INFO] PYZX results directory found: results/pyzx_results. Will attempt to find matching results.
+
+=== ibm ===
+  0410184_169: GUOQ=102 TKET=78 PYZX=N/A  → TKET wins
+  3_17_13: GUOQ=17 TKET=11 PYZX=N/A  → TKET wins
+  4_49_16: GUOQ=97 TKET=62 PYZX=N/A  → TKET wins
+  4gt10-v1_81: GUOQ=66 TKET=44 PYZX=N/A  → TKET wins
+  4gt11_83: GUOQ=14 TKET=8 PYZX=N/A  → TKET wins
+  4gt11_84: GUOQ=9 TKET=7 PYZX=N/A  → TKET wins
+  4gt12-v0_86: GUOQ=113 TKET=66 PYZX=N/A  → TKET wins
+  4gt12-v0_87: GUOQ=112 TKET=65 PYZX=N/A  → TKET wins
+  4gt12-v0_88: GUOQ=86 TKET=53 PYZX=N/A  → TKET wins
+  4gt12-v1_89: GUOQ=100 TKET=56 PYZX=N/A  → TKET wins
+  4gt13-v1_93: GUOQ=30 TKET=19 PYZX=N/A  → TKET wins
+  4gt13_90: GUOQ=50 TKET=26 PYZX=N/A  → TKET wins
+  4gt13_91: GUOQ=43 TKET=29 PYZX=N/A  → TKET wins
+  4gt13_92: GUOQ=30 TKET=17 PYZX=N/A  → TKET wins
+  4gt4-v0_72: GUOQ=113 TKET=69 PYZX=N/A  → TKET wins
+  4gt4-v0_73: GUOQ=179 TKET=100 PYZX=N/A  → TKET wins
+  4gt4-v0_78: GUOQ=105 TKET=63 PYZX=N/A  → TKET wins
+  4gt4-v0_79: GUOQ=102 TKET=64 PYZX=N/A  → TKET wins
+  4gt4-v0_80: GUOQ=79 TKET=53 PYZX=N/A  → TKET wins
+  4gt4-v1_74: GUOQ=119 TKET=77 PYZX=N/A  → TKET wins
+  4gt5_76: GUOQ=46 TKET=24 PYZX=N/A  → TKET wins
+  4gt5_77: GUOQ=58 TKET=34 PYZX=N/A  → TKET wins
+  4mod5-bdd_287: GUOQ=31 TKET=23 PYZX=N/A  → TKET wins
+  4mod5-v0_18: GUOQ=31 TKET=12 PYZX=N/A  → TKET wins
+  4mod5-v0_19: GUOQ=16 TKET=9 PYZX=N/A  → TKET wins
+  4mod5-v0_20: GUOQ=10 TKET=8 PYZX=N/A  → TKET wins
+  4mod5-v1_22: GUOQ=11 TKET=8 PYZX=N/A  → TKET wins
+  4mod5-v1_23: GUOQ=31 TKET=12 PYZX=N/A  → TKET wins
+  4mod5-v1_24: GUOQ=16 TKET=13 PYZX=N/A  → TKET wins
+  4mod7-v0_94: GUOQ=72 TKET=37 PYZX=N/A  → TKET wins
+  4mod7-v1_96: GUOQ=70 TKET=39 PYZX=N/A  → TKET wins
+  9symml_195: GUOQ=15232 TKET=8920 PYZX=N/A  → TKET wins
+  C17_204: GUOQ=205 TKET=124 PYZX=N/A  → TKET wins
+  TFIM_step_100_16: GUOQ=240 TKET=240 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_100_32: GUOQ=992 TKET=992 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_100_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_100_8: GUOQ=56 TKET=56 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_10_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_20_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_30_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_40_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_50_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_60_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_70_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_80_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_90_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  XY_step_100_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  XY_step_100_8: GUOQ=56 TKET=55 PYZX=N/A  → TKET wins
+  adder_4: GUOQ=23 TKET=13 PYZX=N/A  → TKET wins
+  adder_8: GUOQ=409 TKET=237 PYZX=N/A  → TKET wins
+  adder_9: GUOQ=74 TKET=16 PYZX=N/A  → TKET wins
+  adr4_197: GUOQ=1498 TKET=865 PYZX=N/A  → TKET wins
+  ae_nativegates_ibm_tket_8: GUOQ=56 TKET=51 PYZX=N/A  → TKET wins
+  aj-e11_165: GUOQ=69 TKET=56 PYZX=N/A  → TKET wins
+  alu-bdd_288: GUOQ=38 TKET=28 PYZX=N/A  → TKET wins
+  alu-v0_26: GUOQ=38 TKET=29 PYZX=N/A  → TKET wins
+  alu-v0_27: GUOQ=17 TKET=16 PYZX=N/A  → TKET wins
+  alu-v1_28: GUOQ=18 TKET=15 PYZX=N/A  → TKET wins
+  alu-v1_29: GUOQ=17 TKET=16 PYZX=N/A  → TKET wins
+  alu-v2_30: GUOQ=223 TKET=150 PYZX=N/A  → TKET wins
+  alu-v2_31: GUOQ=198 TKET=115 PYZX=N/A  → TKET wins
+  alu-v2_32: GUOQ=72 TKET=41 PYZX=N/A  → TKET wins
+  alu-v2_33: GUOQ=17 TKET=16 PYZX=N/A  → TKET wins
+  alu-v3_34: GUOQ=24 TKET=19 PYZX=N/A  → TKET wins
+  alu-v3_35: GUOQ=18 TKET=16 PYZX=N/A  → TKET wins
+  alu-v4_36: GUOQ=51 TKET=34 PYZX=N/A  → TKET wins
+  alu-v4_37: GUOQ=18 TKET=16 PYZX=N/A  → TKET wins
+  barenco_tof_10: GUOQ=192 TKET=117 PYZX=N/A  → TKET wins
+  barenco_tof_3: GUOQ=24 TKET=18 PYZX=N/A  → TKET wins
+  barenco_tof_4: GUOQ=48 TKET=33 PYZX=N/A  → TKET wins
+  barenco_tof_5: GUOQ=72 TKET=48 PYZX=N/A  → TKET wins
+  clip_206: GUOQ=14772 TKET=8025 PYZX=N/A  → TKET wins
+  cm152a_212: GUOQ=532 TKET=289 PYZX=N/A  → TKET wins
+  cm42a_207: GUOQ=771 TKET=420 PYZX=N/A  → TKET wins
+  cm82a_208: GUOQ=283 TKET=142 PYZX=N/A  → TKET wins
+  cm85a_209: GUOQ=4986 TKET=2680 PYZX=N/A  → TKET wins
+  cnt3-5_179: GUOQ=75 TKET=78 PYZX=N/A  → GUOQ wins
+  cnt3-5_180: GUOQ=205 TKET=151 PYZX=N/A  → TKET wins
+  co14_215: GUOQ=7840 TKET=4700 PYZX=N/A  → TKET wins
+  con1_216: GUOQ=415 TKET=235 PYZX=N/A  → TKET wins
+  csla_mux_3: GUOQ=80 TKET=75 PYZX=N/A  → TKET wins
+  csum_mux_9: GUOQ=168 TKET=138 PYZX=N/A  → TKET wins
+  cycle10_2_110: GUOQ=2644 TKET=1534 PYZX=N/A  → TKET wins
+  dc1_220: GUOQ=833 TKET=490 PYZX=N/A  → TKET wins
+  dc2_222: GUOQ=4131 TKET=2210 PYZX=N/A  → TKET wins
+  decod24-bdd_294: GUOQ=32 TKET=17 PYZX=N/A  → TKET wins
+  decod24-enable_126: GUOQ=149 TKET=97 PYZX=N/A  → TKET wins
+  decod24-v0_38: GUOQ=21 TKET=17 PYZX=N/A  → TKET wins
+  decod24-v1_41: GUOQ=38 TKET=28 PYZX=N/A  → TKET wins
+  decod24-v2_43: GUOQ=22 TKET=16 PYZX=N/A  → TKET wins
+  decod24-v3_45: GUOQ=64 TKET=42 PYZX=N/A  → TKET wins
+  dist_223: GUOQ=16624 TKET=9550 PYZX=N/A  → TKET wins
+  ex-1_166: GUOQ=9 TKET=7 PYZX=N/A  → TKET wins
+  ex1_226: GUOQ=5 TKET=5 PYZX=N/A  → GUOQ & TKET tie
+  ex2_227: GUOQ=275 TKET=160 PYZX=N/A  → TKET wins
+  ex3_229: GUOQ=175 TKET=105 PYZX=N/A  → TKET wins
+  f2_232: GUOQ=525 TKET=298 PYZX=N/A  → TKET wins
+  gf2^10_mult: GUOQ=609 TKET=609 PYZX=N/A  → GUOQ & TKET tie
+  gf2^4_mult: GUOQ=99 TKET=99 PYZX=N/A  → GUOQ & TKET tie
+  gf2^5_mult: GUOQ=154 TKET=154 PYZX=N/A  → GUOQ & TKET tie
+  gf2^6_mult: GUOQ=221 TKET=221 PYZX=N/A  → GUOQ & TKET tie
+  gf2^7_mult: GUOQ=300 TKET=300 PYZX=N/A  → GUOQ & TKET tie
+  gf2^8_mult: GUOQ=405 TKET=405 PYZX=N/A  → GUOQ & TKET tie
+  gf2^9_mult: GUOQ=494 TKET=494 PYZX=N/A  → GUOQ & TKET tie
+  graycode6_47: GUOQ=5 TKET=5 PYZX=N/A  → GUOQ & TKET tie
+  ground_state_estimation_10: GUOQ=154209 TKET=0 PYZX=N/A  → TKET wins
+  grover_pigeon3: GUOQ=92 TKET=92 PYZX=N/A  → GUOQ & TKET tie
+  ham15-high: GUOQ=2149 TKET=1439 PYZX=N/A  → TKET wins
+  ham15-low: GUOQ=236 TKET=205 PYZX=N/A  → TKET wins
+  ham15-med: GUOQ=534 TKET=347 PYZX=N/A  → TKET wins
+  ham15_107: GUOQ=3856 TKET=2342 PYZX=N/A  → TKET wins
+  ham3_102: GUOQ=10 TKET=6 PYZX=N/A  → TKET wins
+  ham7_104: GUOQ=149 TKET=88 PYZX=N/A  → TKET wins
+  heisenberg_step_10_4: GUOQ=120 TKET=27 PYZX=N/A  → TKET wins
+  heisenberg_step_15_4: GUOQ=180 TKET=36 PYZX=N/A  → TKET wins
+  heisenberg_step_20_4: GUOQ=240 TKET=47 PYZX=N/A  → TKET wins
+  heisenberg_step_25_4: GUOQ=300 TKET=56 PYZX=N/A  → TKET wins
+  heisenberg_step_30_4: GUOQ=360 TKET=67 PYZX=N/A  → TKET wins
+  heisenberg_step_35_4: GUOQ=420 TKET=76 PYZX=N/A  → TKET wins
+  heisenberg_step_40_4: GUOQ=480 TKET=87 PYZX=N/A  → TKET wins
+  heisenberg_step_45_4: GUOQ=540 TKET=96 PYZX=N/A  → TKET wins
+  heisenberg_step_50_4: GUOQ=600 TKET=107 PYZX=N/A  → TKET wins
+  heisenberg_step_50_8: GUOQ=1400 TKET=509 PYZX=N/A  → TKET wins
+  heisenberg_step_5_4: GUOQ=60 TKET=16 PYZX=N/A  → TKET wins
+  hlf_10: GUOQ=48 TKET=17 PYZX=N/A  → TKET wins
+  hlf_5: GUOQ=14 TKET=4 PYZX=N/A  → TKET wins
+  hwb4_49: GUOQ=105 TKET=68 PYZX=N/A  → TKET wins
+  hwb5_53: GUOQ=597 TKET=360 PYZX=N/A  → TKET wins
+  hwb6: GUOQ=116 TKET=86 PYZX=N/A  → TKET wins
+  hwb6_56: GUOQ=2952 TKET=1813 PYZX=N/A  → TKET wins
+  hwb7_59: GUOQ=10673 TKET=6437 PYZX=N/A  → TKET wins
+  hwb8_113: GUOQ=30368 TKET=18402 PYZX=N/A  → TKET wins
+  hwb9_119: GUOQ=90955 TKET=55404 PYZX=N/A  → TKET wins
+  inc_237: GUOQ=4636 TKET=2337 PYZX=N/A  → TKET wins
+  ising_model_10: GUOQ=90 TKET=72 PYZX=N/A  → TKET wins
+  ising_model_13: GUOQ=120 TKET=96 PYZX=N/A  → TKET wins
+  ising_model_16: GUOQ=150 TKET=120 PYZX=N/A  → TKET wins
+  life_238: GUOQ=9800 TKET=5678 PYZX=N/A  → TKET wins
+  majority_239: GUOQ=267 TKET=152 PYZX=N/A  → TKET wins
+  max46_240: GUOQ=11844 TKET=6960 PYZX=N/A  → TKET wins
+  miller_11: GUOQ=23 TKET=16 PYZX=N/A  → TKET wins
+  mini-alu_167: GUOQ=126 TKET=75 PYZX=N/A  → TKET wins
+  mini_alu_305: GUOQ=75 TKET=58 PYZX=N/A  → TKET wins
+  misex1_241: GUOQ=2100 TKET=1082 PYZX=N/A  → TKET wins
+  mlp4_245: GUOQ=8232 TKET=4529 PYZX=N/A  → TKET wins
+  mod10_171: GUOQ=108 TKET=74 PYZX=N/A  → TKET wins
+  mod10_176: GUOQ=78 TKET=51 PYZX=N/A  → TKET wins
+  mod5_4: GUOQ=28 TKET=12 PYZX=N/A  → TKET wins
+  mod5adder_127: GUOQ=239 TKET=147 PYZX=N/A  → TKET wins
+  mod5d1_63: GUOQ=13 TKET=10 PYZX=N/A  → TKET wins
+  mod5d2_64: GUOQ=25 TKET=16 PYZX=N/A  → TKET wins
+  mod5mils_65: GUOQ=16 TKET=9 PYZX=N/A  → TKET wins
+  mod8-10_177: GUOQ=194 TKET=124 PYZX=N/A  → TKET wins
+  mod8-10_178: GUOQ=152 TKET=93 PYZX=N/A  → TKET wins
+  mod_mult_55: GUOQ=48 TKET=45 PYZX=N/A  → TKET wins
+  mod_red_21: GUOQ=105 TKET=89 PYZX=N/A  → TKET wins
+  muliply_5: GUOQ=20 TKET=12 PYZX=N/A  → TKET wins
+  multiply_10: GUOQ=117 TKET=51 PYZX=N/A  → TKET wins
+  one-two-three-v0_97: GUOQ=128 TKET=73 PYZX=N/A  → TKET wins
+  one-two-three-v0_98: GUOQ=65 TKET=39 PYZX=N/A  → TKET wins
+  one-two-three-v1_99: GUOQ=59 TKET=31 PYZX=N/A  → TKET wins
+  one-two-three-v2_100: GUOQ=32 TKET=26 PYZX=N/A  → TKET wins
+  one-two-three-v3_101: GUOQ=32 TKET=26 PYZX=N/A  → TKET wins
+  plus63mod4096_163: GUOQ=56329 TKET=32959 PYZX=N/A  → TKET wins
+  plus63mod8192_164: GUOQ=81865 TKET=48414 PYZX=N/A  → TKET wins
+  pm1_249: GUOQ=771 TKET=420 PYZX=N/A  → TKET wins
+  portfolioqaoa_nativegates_ibm_tket_8: GUOQ=168 TKET=105 PYZX=N/A  → TKET wins
+  portfoliovqe_nativegates_ibm_tket_8: GUOQ=84 TKET=43 PYZX=N/A  → TKET wins
+  qaoa_10: GUOQ=67 TKET=39 PYZX=N/A  → TKET wins
+  qaoa_5: GUOQ=38 TKET=15 PYZX=N/A  → TKET wins
+  qaoa_n10_p4: GUOQ=117 TKET=120 PYZX=N/A  → GUOQ wins
+  qaoa_n14_p4: GUOQ=160 TKET=168 PYZX=N/A  → GUOQ wins
+  qaoa_n20_p4: GUOQ=232 TKET=240 PYZX=N/A  → GUOQ wins
+  qaoa_n30_p4: GUOQ=356 TKET=360 PYZX=N/A  → GUOQ wins
+  qaoa_n4_p4: GUOQ=36 TKET=30 PYZX=N/A  → TKET wins
+  qaoa_n6_p4: GUOQ=64 TKET=61 PYZX=N/A  → TKET wins
+  qaoa_n8_p4: GUOQ=96 TKET=93 PYZX=N/A  → TKET wins
+  qaoa_nativegates_ibm_tket_8: GUOQ=32 TKET=32 PYZX=N/A  → GUOQ & TKET tie
+  qcla_adder_10: GUOQ=233 TKET=206 PYZX=N/A  → TKET wins
+  qcla_com_7: GUOQ=186 TKET=124 PYZX=N/A  → TKET wins
+  qcla_mod_7: GUOQ=382 TKET=325 PYZX=N/A  → TKET wins
+  qe_qft_4: GUOQ=27 TKET=12 PYZX=N/A  → TKET wins
+  qe_qft_5: GUOQ=38 TKET=21 PYZX=N/A  → TKET wins
+  qft_10: GUOQ=90 TKET=0 PYZX=N/A  → TKET wins
+  qft_10_quest: GUOQ=155 TKET=79 PYZX=N/A  → TKET wins
+  qft_16: GUOQ=240 TKET=0 PYZX=N/A  → TKET wins
+  qft_20: GUOQ=380 TKET=228 PYZX=N/A  → TKET wins
+  qft_5: GUOQ=33 TKET=18 PYZX=N/A  → TKET wins
+  qft_nativegates_ibm_tket_8: GUOQ=68 TKET=54 PYZX=N/A  → TKET wins
+  qftentangled_nativegates_ibm_tket_8: GUOQ=75 TKET=50 PYZX=N/A  → TKET wins
+  qgan_nativegates_ibm_tket_8: GUOQ=28 TKET=13 PYZX=N/A  → TKET wins
+  qiskit-3_17_13: GUOQ=17 TKET=11 PYZX=N/A  → TKET wins
+  qiskit-alu-v0_26: GUOQ=38 TKET=29 PYZX=N/A  → TKET wins
+  qpeexact_nativegates_ibm_tket_8: GUOQ=64 TKET=50 PYZX=N/A  → TKET wins
+  qpeinexact_nativegates_ibm_tket_8: GUOQ=65 TKET=51 PYZX=N/A  → TKET wins
+  radd_250: GUOQ=1405 TKET=835 PYZX=N/A  → TKET wins
+  rc_adder_6: GUOQ=93 TKET=73 PYZX=N/A  → TKET wins
+  rd32-v0_66: GUOQ=12 TKET=10 PYZX=N/A  → TKET wins
+  rd32-v1_68: GUOQ=12 TKET=10 PYZX=N/A  → TKET wins
+  rd32_270: GUOQ=36 TKET=12 PYZX=N/A  → TKET wins
+  rd53_130: GUOQ=448 TKET=274 PYZX=N/A  → TKET wins
+  rd53_131: GUOQ=197 TKET=100 PYZX=N/A  → TKET wins
+  rd53_133: GUOQ=252 TKET=135 PYZX=N/A  → TKET wins
+  rd53_135: GUOQ=134 TKET=83 PYZX=N/A  → TKET wins
+  rd53_138: GUOQ=60 TKET=50 PYZX=N/A  → TKET wins
+  rd53_251: GUOQ=564 TKET=320 PYZX=N/A  → TKET wins
+  rd53_311: GUOQ=123 TKET=86 PYZX=N/A  → TKET wins
+  rd73_140: GUOQ=104 TKET=92 PYZX=N/A  → TKET wins
+  rd73_252: GUOQ=2319 TKET=1364 PYZX=N/A  → TKET wins
+  rd84_142: GUOQ=154 TKET=133 PYZX=N/A  → TKET wins
+  rd84_253: GUOQ=5960 TKET=3600 PYZX=N/A  → TKET wins
+  root_255: GUOQ=7493 TKET=4247 PYZX=N/A  → TKET wins
+  sao2_257: GUOQ=16864 TKET=9782 PYZX=N/A  → TKET wins
+  sf_274: GUOQ=336 TKET=168 PYZX=N/A  → TKET wins
+  sf_276: GUOQ=336 TKET=194 PYZX=N/A  → TKET wins
+  shor_15_7: GUOQ=14858 TKET=9558 PYZX=N/A  → TKET wins
+  sqn_258: GUOQ=4459 TKET=2734 PYZX=N/A  → TKET wins
+  sqrt8_260: GUOQ=1307 TKET=755 PYZX=N/A  → TKET wins
+  squar5_261: GUOQ=869 TKET=500 PYZX=N/A  → TKET wins
+  square_root_7: GUOQ=3089 TKET=1567 PYZX=N/A  → TKET wins
+  sym10_262: GUOQ=28084 TKET=17069 PYZX=N/A  → TKET wins
+  sym6_145: GUOQ=1701 TKET=974 PYZX=N/A  → TKET wins
+  sym6_316: GUOQ=123 TKET=78 PYZX=N/A  → TKET wins
+  sym9_146: GUOQ=148 TKET=138 PYZX=N/A  → TKET wins
+  sym9_148: GUOQ=9408 TKET=4807 PYZX=N/A  → TKET wins
+  sym9_193: GUOQ=15232 TKET=8920 PYZX=N/A  → TKET wins
+  sys6-v0_111: GUOQ=98 TKET=89 PYZX=N/A  → TKET wins
+  tof_10: GUOQ=102 TKET=85 PYZX=N/A  → TKET wins
+  tof_3: GUOQ=18 TKET=15 PYZX=N/A  → TKET wins
+  tof_4: GUOQ=30 TKET=26 PYZX=N/A  → TKET wins
+  tof_5: GUOQ=42 TKET=35 PYZX=N/A  → TKET wins
+  urf1_149: GUOQ=80878 TKET=50243 PYZX=N/A  → TKET wins
+  urf1_278: GUOQ=26692 TKET=17804 PYZX=N/A  → TKET wins
+  urf2_152: GUOQ=35210 TKET=21824 PYZX=N/A  → TKET wins
+  urf2_277: GUOQ=10062 TKET=6896 PYZX=N/A  → TKET wins
+  urf3_155: GUOQ=185276 TKET=185276 PYZX=N/A  → GUOQ & TKET tie
+  urf3_279: GUOQ=60380 TKET=40952 PYZX=N/A  → TKET wins
+  urf4_187: GUOQ=224028 TKET=0 PYZX=N/A  → TKET wins
+  urf5_158: GUOQ=71932 TKET=42656 PYZX=N/A  → TKET wins
+  urf5_280: GUOQ=23764 TKET=15939 PYZX=N/A  → TKET wins
+  urf6_160: GUOQ=75180 TKET=46971 PYZX=N/A  → TKET wins
+  vbe_adder_3: GUOQ=64 TKET=39 PYZX=N/A  → TKET wins
+  vqe_4: GUOQ=74 TKET=53 PYZX=N/A  → TKET wins
+  vqe_nativegates_ibm_tket_8: GUOQ=14 TKET=14 PYZX=N/A  → GUOQ & TKET tie
+  vqe_uccsd_n4: GUOQ=88 TKET=17 PYZX=N/A  → TKET wins
+  vqe_uccsd_n6: GUOQ=1052 TKET=115 PYZX=N/A  → TKET wins
+  vqe_uccsd_n8: GUOQ=5488 TKET=457 PYZX=N/A  → TKET wins
+  wim_266: GUOQ=427 TKET=242 PYZX=N/A  → TKET wins
+  xor5_254: GUOQ=5 TKET=5 PYZX=N/A  → GUOQ & TKET tie
+  z4_268: GUOQ=1343 TKET=739 PYZX=N/A  → TKET wins
+--- ibm Summary (Processed 250 benchmarks) ---
+  GUOQ wins on ibm: 5
+  TKET wins on ibm: 217
+  PYZX wins on ibm: 0
+  Benchmarks tied on ibm: 28
+  Overall for ibm: TKET is the winner for ibm (217 sole wins)
+
+=== ibmnew ===
+  0410184_169: GUOQ=79 TKET=78 PYZX=N/A  → TKET wins
+  3_17_13-checkpoint: GUOQ=9 TKET=11 PYZX=N/A  → GUOQ wins
+  3_17_13: GUOQ=13 TKET=11 PYZX=N/A  → TKET wins
+  4_49_16: GUOQ=74 TKET=62 PYZX=N/A  → TKET wins
+  4gt10-v1_81: GUOQ=50 TKET=44 PYZX=N/A  → TKET wins
+  4gt11_83: GUOQ=13 TKET=8 PYZX=N/A  → TKET wins
+  4gt11_84: GUOQ=8 TKET=7 PYZX=N/A  → TKET wins
+  4gt12-v0_86: GUOQ=83 TKET=66 PYZX=N/A  → TKET wins
+  4gt12-v0_87: GUOQ=87 TKET=65 PYZX=N/A  → TKET wins
+  4gt12-v0_88: GUOQ=65 TKET=53 PYZX=N/A  → TKET wins
+  4gt12-v1_89: GUOQ=74 TKET=56 PYZX=N/A  → TKET wins
+  4gt13-v1_93: GUOQ=22 TKET=19 PYZX=N/A  → TKET wins
+  4gt13_90: GUOQ=38 TKET=26 PYZX=N/A  → TKET wins
+  4gt13_91: GUOQ=38 TKET=29 PYZX=N/A  → TKET wins
+  4gt13_92: GUOQ=30 TKET=17 PYZX=N/A  → TKET wins
+  4gt4-v0_72: GUOQ=113 TKET=69 PYZX=N/A  → TKET wins
+  4gt4-v0_73: GUOQ=133 TKET=100 PYZX=N/A  → TKET wins
+  4gt4-v0_78: GUOQ=101 TKET=63 PYZX=N/A  → TKET wins
+  4gt4-v0_79: GUOQ=74 TKET=64 PYZX=N/A  → TKET wins
+  4gt4-v0_80: GUOQ=79 TKET=53 PYZX=N/A  → TKET wins
+  4gt4-v1_74: GUOQ=108 TKET=85 PYZX=N/A  → TKET wins
+  4gt5_76: GUOQ=37 TKET=24 PYZX=N/A  → TKET wins
+  4gt5_77: GUOQ=42 TKET=34 PYZX=N/A  → TKET wins
+  4mod5-bdd_287: GUOQ=31 TKET=23 PYZX=N/A  → TKET wins
+  4mod5-v0_18: GUOQ=19 TKET=12 PYZX=N/A  → TKET wins
+  4mod5-v0_19: GUOQ=12 TKET=9 PYZX=N/A  → TKET wins
+  4mod5-v0_20: GUOQ=7 TKET=8 PYZX=N/A  → GUOQ wins
+  4mod5-v1_22: GUOQ=8 TKET=8 PYZX=N/A  → GUOQ & TKET tie
+  4mod5-v1_23: GUOQ=23 TKET=12 PYZX=N/A  → TKET wins
+  4mod5-v1_24: GUOQ=14 TKET=12 PYZX=N/A  → TKET wins
+  4mod7-v0_94: GUOQ=72 TKET=37 PYZX=N/A  → TKET wins
+  4mod7-v1_96: GUOQ=52 TKET=39 PYZX=N/A  → TKET wins
+  9symml_195: GUOQ=15232 TKET=8920 PYZX=N/A  → TKET wins
+  C17_204: GUOQ=147 TKET=124 PYZX=N/A  → TKET wins
+  TFIM_step_100_16: GUOQ=240 TKET=240 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_100_32: GUOQ=992 TKET=992 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_100_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_100_8: GUOQ=56 TKET=56 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_10_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_20_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_30_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_40_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_50_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_60_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_70_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_80_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_90_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  XY_step_100_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  XY_step_100_8: GUOQ=56 TKET=55 PYZX=N/A  → TKET wins
+  adder_4: GUOQ=16 TKET=11 PYZX=N/A  → TKET wins
+  adder_8: GUOQ=318 TKET=237 PYZX=N/A  → TKET wins
+  adder_9: GUOQ=57 TKET=16 PYZX=N/A  → TKET wins
+  adr4_197: GUOQ=1498 TKET=865 PYZX=N/A  → TKET wins
+  ae_nativegates_ibm_tket_8: GUOQ=56 TKET=51 PYZX=N/A  → TKET wins
+  aj-e11_165: GUOQ=69 TKET=56 PYZX=N/A  → TKET wins
+  alu-bdd_288: GUOQ=29 TKET=28 PYZX=N/A  → TKET wins
+  alu-v0_26: GUOQ=29 TKET=29 PYZX=N/A  → GUOQ & TKET tie
+  alu-v0_27: GUOQ=15 TKET=16 PYZX=N/A  → GUOQ wins
+  alu-v1_28: GUOQ=14 TKET=15 PYZX=N/A  → GUOQ wins
+  alu-v1_29: GUOQ=15 TKET=16 PYZX=N/A  → GUOQ wins
+  alu-v2_30: GUOQ=167 TKET=150 PYZX=N/A  → TKET wins
+  alu-v2_31: GUOQ=145 TKET=115 PYZX=N/A  → TKET wins
+  alu-v2_32: GUOQ=70 TKET=41 PYZX=N/A  → TKET wins
+  alu-v2_33: GUOQ=15 TKET=15 PYZX=N/A  → GUOQ & TKET tie
+  alu-v3_34: GUOQ=21 TKET=19 PYZX=N/A  → TKET wins
+  alu-v3_35: GUOQ=16 TKET=16 PYZX=N/A  → GUOQ & TKET tie
+  alu-v4_36: GUOQ=36 TKET=34 PYZX=N/A  → TKET wins
+  alu-v4_37: GUOQ=16 TKET=16 PYZX=N/A  → GUOQ & TKET tie
+  barenco_tof_10: GUOQ=146 TKET=117 PYZX=N/A  → TKET wins
+  barenco_tof_3: GUOQ=20 TKET=18 PYZX=N/A  → TKET wins
+  barenco_tof_4: GUOQ=38 TKET=33 PYZX=N/A  → TKET wins
+  barenco_tof_5: GUOQ=56 TKET=48 PYZX=N/A  → TKET wins
+  clip_206: GUOQ=14772 TKET=8025 PYZX=N/A  → TKET wins
+  cm152a_212: GUOQ=532 TKET=289 PYZX=N/A  → TKET wins
+  cm42a_207: GUOQ=631 TKET=420 PYZX=N/A  → TKET wins
+  cm82a_208: GUOQ=217 TKET=142 PYZX=N/A  → TKET wins
+  cm85a_209: GUOQ=4986 TKET=2680 PYZX=N/A  → TKET wins
+  cnt3-5_179: GUOQ=65 TKET=78 PYZX=N/A  → GUOQ wins
+  cnt3-5_180: GUOQ=215 TKET=151 PYZX=N/A  → TKET wins
+  co14_215: GUOQ=7840 TKET=4700 PYZX=N/A  → TKET wins
+  con1_216: GUOQ=318 TKET=235 PYZX=N/A  → TKET wins
+  csla_mux_3: GUOQ=72 TKET=75 PYZX=N/A  → GUOQ wins
+  csum_mux_9: GUOQ=160 TKET=138 PYZX=N/A  → TKET wins
+  cycle10_2_110: GUOQ=2644 TKET=1534 PYZX=N/A  → TKET wins
+  dc1_220: GUOQ=652 TKET=490 PYZX=N/A  → TKET wins
+  dc2_222: GUOQ=4131 TKET=2210 PYZX=N/A  → TKET wins
+  decod24-bdd_294: GUOQ=22 TKET=17 PYZX=N/A  → TKET wins
+  decod24-enable_126: GUOQ=149 TKET=97 PYZX=N/A  → TKET wins
+  decod24-v0_38: GUOQ=16 TKET=17 PYZX=N/A  → GUOQ wins
+  decod24-v1_41: GUOQ=29 TKET=28 PYZX=N/A  → TKET wins
+  decod24-v2_43: GUOQ=13 TKET=16 PYZX=N/A  → GUOQ wins
+  decod24-v3_45: GUOQ=47 TKET=42 PYZX=N/A  → TKET wins
+  dist_223: GUOQ=16624 TKET=9550 PYZX=N/A  → TKET wins
+  ex-1_166: GUOQ=8 TKET=7 PYZX=N/A  → TKET wins
+  ex1_226: GUOQ=5 TKET=5 PYZX=N/A  → GUOQ & TKET tie
+  ex2_227: GUOQ=201 TKET=160 PYZX=N/A  → TKET wins
+  ex3_229: GUOQ=127 TKET=105 PYZX=N/A  → TKET wins
+  f2_232: GUOQ=412 TKET=298 PYZX=N/A  → TKET wins
+  gf2^10_mult: GUOQ=608 TKET=609 PYZX=N/A  → GUOQ wins
+  gf2^4_mult: GUOQ=94 TKET=99 PYZX=N/A  → GUOQ wins
+  gf2^5_mult: GUOQ=146 TKET=154 PYZX=N/A  → GUOQ wins
+  gf2^6_mult: GUOQ=216 TKET=221 PYZX=N/A  → GUOQ wins
+  gf2^7_mult: GUOQ=293 TKET=300 PYZX=N/A  → GUOQ wins
+  gf2^8_mult: GUOQ=396 TKET=405 PYZX=N/A  → GUOQ wins
+  gf2^9_mult: GUOQ=491 TKET=494 PYZX=N/A  → GUOQ wins
+  graycode6_47: GUOQ=5 TKET=5 PYZX=N/A  → GUOQ & TKET tie
+  ground_state_estimation_10: GUOQ=154209 TKET=0 PYZX=N/A  → TKET wins
+  grover_pigeon3: GUOQ=92 TKET=92 PYZX=N/A  → GUOQ & TKET tie
+  ham15-high: GUOQ=2149 TKET=1439 PYZX=N/A  → TKET wins
+  ham15-low: GUOQ=201 TKET=205 PYZX=N/A  → GUOQ wins
+  ham15-med: GUOQ=384 TKET=347 PYZX=N/A  → TKET wins
+  ham15_107: GUOQ=3858 TKET=2342 PYZX=N/A  → TKET wins
+  ham3_102: GUOQ=7 TKET=6 PYZX=N/A  → TKET wins
+  ham7_104: GUOQ=109 TKET=88 PYZX=N/A  → TKET wins
+  heisenberg_step_10_4: GUOQ=120 TKET=27 PYZX=N/A  → TKET wins
+  heisenberg_step_15_4: GUOQ=270 TKET=36 PYZX=N/A  → TKET wins
+  heisenberg_step_20_4: GUOQ=240 TKET=47 PYZX=N/A  → TKET wins
+  heisenberg_step_25_4: GUOQ=300 TKET=56 PYZX=N/A  → TKET wins
+  heisenberg_step_30_4: GUOQ=360 TKET=67 PYZX=N/A  → TKET wins
+  heisenberg_step_35_4: GUOQ=420 TKET=76 PYZX=N/A  → TKET wins
+  heisenberg_step_40_4: GUOQ=480 TKET=87 PYZX=N/A  → TKET wins
+  heisenberg_step_45_4: GUOQ=810 TKET=96 PYZX=N/A  → TKET wins
+  heisenberg_step_50_4: GUOQ=600 TKET=107 PYZX=N/A  → TKET wins
+  heisenberg_step_50_8: GUOQ=1400 TKET=509 PYZX=N/A  → TKET wins
+  heisenberg_step_5_4: GUOQ=60 TKET=16 PYZX=N/A  → TKET wins
+  hlf_10: GUOQ=49 TKET=17 PYZX=N/A  → TKET wins
+  hlf_5: GUOQ=14 TKET=4 PYZX=N/A  → TKET wins
+  hwb4_49: GUOQ=78 TKET=68 PYZX=N/A  → TKET wins
+  hwb5_53: GUOQ=484 TKET=360 PYZX=N/A  → TKET wins
+  hwb6: GUOQ=101 TKET=86 PYZX=N/A  → TKET wins
+  hwb6_56: GUOQ=2952 TKET=1813 PYZX=N/A  → TKET wins
+  hwb7_59: GUOQ=10681 TKET=6437 PYZX=N/A  → TKET wins
+  hwb8_113: GUOQ=30372 TKET=18402 PYZX=N/A  → TKET wins
+  hwb9_119: GUOQ=90955 TKET=55400 PYZX=N/A  → TKET wins
+  inc_237: GUOQ=4636 TKET=2337 PYZX=N/A  → TKET wins
+  ising_model_10: GUOQ=90 TKET=72 PYZX=N/A  → TKET wins
+  ising_model_13: GUOQ=120 TKET=96 PYZX=N/A  → TKET wins
+  ising_model_16: GUOQ=150 TKET=120 PYZX=N/A  → TKET wins
+  life_238: GUOQ=9800 TKET=5678 PYZX=N/A  → TKET wins
+  majority_239: GUOQ=192 TKET=152 PYZX=N/A  → TKET wins
+  max46_240: GUOQ=11844 TKET=6960 PYZX=N/A  → TKET wins
+  miller_11: GUOQ=20 TKET=16 PYZX=N/A  → TKET wins
+  mini-alu_167: GUOQ=96 TKET=75 PYZX=N/A  → TKET wins
+  mini_alu_305: GUOQ=59 TKET=58 PYZX=N/A  → TKET wins
+  misex1_241: GUOQ=2100 TKET=1082 PYZX=N/A  → TKET wins
+  mlp4_245: GUOQ=8232 TKET=4529 PYZX=N/A  → TKET wins
+  mod10_171: GUOQ=108 TKET=74 PYZX=N/A  → TKET wins
+  mod10_176: GUOQ=56 TKET=51 PYZX=N/A  → TKET wins
+  mod5_4: GUOQ=22 TKET=12 PYZX=N/A  → TKET wins
+  mod5adder_127: GUOQ=237 TKET=147 PYZX=N/A  → TKET wins
+  mod5d1_63: GUOQ=13 TKET=10 PYZX=N/A  → TKET wins
+  mod5d2_64: GUOQ=25 TKET=16 PYZX=N/A  → TKET wins
+  mod5mils_65: GUOQ=12 TKET=9 PYZX=N/A  → TKET wins
+  mod8-10_177: GUOQ=145 TKET=124 PYZX=N/A  → TKET wins
+  mod8-10_178: GUOQ=113 TKET=93 PYZX=N/A  → TKET wins
+  mod_mult_55: GUOQ=40 TKET=45 PYZX=N/A  → GUOQ wins
+  mod_red_21: GUOQ=91 TKET=89 PYZX=N/A  → TKET wins
+  muliply_5: GUOQ=20 TKET=10 PYZX=N/A  → TKET wins
+  multiply_10: GUOQ=100 TKET=50 PYZX=N/A  → TKET wins
+  one-two-three-v0_97: GUOQ=109 TKET=73 PYZX=N/A  → TKET wins
+  one-two-three-v0_98: GUOQ=47 TKET=39 PYZX=N/A  → TKET wins
+  one-two-three-v1_99: GUOQ=45 TKET=31 PYZX=N/A  → TKET wins
+  one-two-three-v2_100: GUOQ=26 TKET=26 PYZX=N/A  → GUOQ & TKET tie
+  one-two-three-v3_101: GUOQ=26 TKET=26 PYZX=N/A  → GUOQ & TKET tie
+  plus63mod4096_163: GUOQ=56329 TKET=32959 PYZX=N/A  → TKET wins
+  plus63mod8192_164: GUOQ=81865 TKET=48414 PYZX=N/A  → TKET wins
+  pm1_249: GUOQ=623 TKET=420 PYZX=N/A  → TKET wins
+  portfolioqaoa_nativegates_ibm_tket_8: GUOQ=168 TKET=105 PYZX=N/A  → TKET wins
+  portfoliovqe_nativegates_ibm_tket_8: GUOQ=84 TKET=43 PYZX=N/A  → TKET wins
+  qaoa_10: GUOQ=59 TKET=39 PYZX=N/A  → TKET wins
+  qaoa_5: GUOQ=37 TKET=15 PYZX=N/A  → TKET wins
+  qaoa_n10_p4: GUOQ=116 TKET=120 PYZX=N/A  → GUOQ wins
+  qaoa_n14_p4: GUOQ=160 TKET=168 PYZX=N/A  → GUOQ wins
+  qaoa_n20_p4: GUOQ=233 TKET=240 PYZX=N/A  → GUOQ wins
+  qaoa_n30_p4: GUOQ=353 TKET=360 PYZX=N/A  → GUOQ wins
+  qaoa_n4_p4: GUOQ=43 TKET=30 PYZX=N/A  → TKET wins
+  qaoa_n6_p4: GUOQ=68 TKET=61 PYZX=N/A  → TKET wins
+  qaoa_n8_p4: GUOQ=88 TKET=93 PYZX=N/A  → GUOQ wins
+  qaoa_nativegates_ibm_tket_8: GUOQ=32 TKET=32 PYZX=N/A  → GUOQ & TKET tie
+  qcla_adder_10: GUOQ=187 TKET=205 PYZX=N/A  → GUOQ wins
+  qcla_com_7: GUOQ=186 TKET=124 PYZX=N/A  → TKET wins
+  qcla_mod_7: GUOQ=382 TKET=337 PYZX=N/A  → TKET wins
+  qe_qft_4: GUOQ=27 TKET=11 PYZX=N/A  → TKET wins
+  qe_qft_5: GUOQ=38 TKET=18 PYZX=N/A  → TKET wins
+  qft_10: GUOQ=90 TKET=0 PYZX=N/A  → TKET wins
+  qft_10_quest: GUOQ=107 TKET=79 PYZX=N/A  → TKET wins
+  qft_16: GUOQ=0 TKET=0 PYZX=N/A  → GUOQ & TKET tie
+  qft_20: GUOQ=380 TKET=228 PYZX=N/A  → TKET wins
+  qft_5: GUOQ=31 TKET=18 PYZX=N/A  → TKET wins
+  qft_nativegates_ibm_tket_8: GUOQ=68 TKET=54 PYZX=N/A  → TKET wins
+  qftentangled_nativegates_ibm_tket_8: GUOQ=75 TKET=50 PYZX=N/A  → TKET wins
+  qgan_nativegates_ibm_tket_8: GUOQ=28 TKET=13 PYZX=N/A  → TKET wins
+  qiskit-3_17_13: GUOQ=17 TKET=11 PYZX=N/A  → TKET wins
+  qiskit-alu-v0_26: GUOQ=38 TKET=29 PYZX=N/A  → TKET wins
+  qpeexact_nativegates_ibm_tket_8: GUOQ=64 TKET=50 PYZX=N/A  → TKET wins
+  qpeinexact_nativegates_ibm_tket_8: GUOQ=65 TKET=51 PYZX=N/A  → TKET wins
+  radd_250: GUOQ=1308 TKET=835 PYZX=N/A  → TKET wins
+  rc_adder_6: GUOQ=93 TKET=73 PYZX=N/A  → TKET wins
+  rd32-v0_66: GUOQ=7 TKET=10 PYZX=N/A  → GUOQ wins
+  rd32-v1_68: GUOQ=11 TKET=10 PYZX=N/A  → TKET wins
+  rd32_270: GUOQ=26 TKET=12 PYZX=N/A  → TKET wins
+  rd53_130: GUOQ=393 TKET=274 PYZX=N/A  → TKET wins
+  rd53_131: GUOQ=200 TKET=100 PYZX=N/A  → TKET wins
+  rd53_133: GUOQ=179 TKET=135 PYZX=N/A  → TKET wins
+  rd53_135: GUOQ=96 TKET=83 PYZX=N/A  → TKET wins
+  rd53_138: GUOQ=42 TKET=50 PYZX=N/A  → GUOQ wins
+  rd53_251: GUOQ=454 TKET=320 PYZX=N/A  → TKET wins
+  rd53_311: GUOQ=97 TKET=86 PYZX=N/A  → TKET wins
+  rd73_140: GUOQ=80 TKET=92 PYZX=N/A  → GUOQ wins
+  rd73_252: GUOQ=1988 TKET=1364 PYZX=N/A  → TKET wins
+  rd84_142: GUOQ=118 TKET=133 PYZX=N/A  → GUOQ wins
+  rd84_253: GUOQ=5960 TKET=3600 PYZX=N/A  → TKET wins
+  root_255: GUOQ=7492 TKET=4247 PYZX=N/A  → TKET wins
+  sao2_257: GUOQ=16864 TKET=9782 PYZX=N/A  → TKET wins
+  sf_274: GUOQ=246 TKET=168 PYZX=N/A  → TKET wins
+  sf_276: GUOQ=336 TKET=194 PYZX=N/A  → TKET wins
+  shor_15_7: GUOQ=14858 TKET=9558 PYZX=N/A  → TKET wins
+  sqn_258: GUOQ=4459 TKET=2734 PYZX=N/A  → TKET wins
+  sqrt8_260: GUOQ=1314 TKET=755 PYZX=N/A  → TKET wins
+  squar5_261: GUOQ=869 TKET=500 PYZX=N/A  → TKET wins
+  square_root_7: GUOQ=2897 TKET=1567 PYZX=N/A  → TKET wins
+  sym10_262: GUOQ=28084 TKET=17069 PYZX=N/A  → TKET wins
+  sym6_145: GUOQ=1458 TKET=974 PYZX=N/A  → TKET wins
+  sym6_316: GUOQ=94 TKET=78 PYZX=N/A  → TKET wins
+  sym9_146: GUOQ=114 TKET=138 PYZX=N/A  → GUOQ wins
+  sym9_148: GUOQ=9408 TKET=4807 PYZX=N/A  → TKET wins
+  sym9_193: GUOQ=15232 TKET=8920 PYZX=N/A  → TKET wins
+  sys6-v0_111: GUOQ=73 TKET=89 PYZX=N/A  → GUOQ wins
+  tof_10: GUOQ=86 TKET=85 PYZX=N/A  → TKET wins
+  tof_3: GUOQ=16 TKET=15 PYZX=N/A  → TKET wins
+  tof_4: GUOQ=24 TKET=26 PYZX=N/A  → GUOQ wins
+  tof_5: GUOQ=42 TKET=35 PYZX=N/A  → TKET wins
+  urf1_149: GUOQ=80878 TKET=50002 PYZX=N/A  → TKET wins
+  urf1_278: GUOQ=26692 TKET=17846 PYZX=N/A  → TKET wins
+  urf2_152: GUOQ=35210 TKET=21855 PYZX=N/A  → TKET wins
+  urf2_277: GUOQ=10066 TKET=6837 PYZX=N/A  → TKET wins
+  urf3_155: GUOQ=185276 TKET=185276 PYZX=N/A  → GUOQ & TKET tie
+  urf3_279: GUOQ=60380 TKET=40911 PYZX=N/A  → TKET wins
+  urf4_187: GUOQ=224028 TKET=224028 PYZX=N/A  → GUOQ & TKET tie
+  urf5_158: GUOQ=71932 TKET=42706 PYZX=N/A  → TKET wins
+  urf5_280: GUOQ=23764 TKET=16053 PYZX=N/A  → TKET wins
+  urf6_160: GUOQ=75180 TKET=47125 PYZX=N/A  → TKET wins
+  vbe_adder_3: GUOQ=51 TKET=39 PYZX=N/A  → TKET wins
+  vqe_4: GUOQ=74 TKET=48 PYZX=N/A  → TKET wins
+  vqe_nativegates_ibm_tket_8: GUOQ=14 TKET=14 PYZX=N/A  → GUOQ & TKET tie
+  vqe_uccsd_n4: GUOQ=86 TKET=17 PYZX=N/A  → TKET wins
+  vqe_uccsd_n6: GUOQ=1052 TKET=115 PYZX=N/A  → TKET wins
+  vqe_uccsd_n8: GUOQ=5488 TKET=457 PYZX=N/A  → TKET wins
+  wim_266: GUOQ=427 TKET=242 PYZX=N/A  → TKET wins
+  xor5_254: GUOQ=5 TKET=5 PYZX=N/A  → GUOQ & TKET tie
+  z4_268: GUOQ=1289 TKET=739 PYZX=N/A  → TKET wins
+--- ibmnew Summary (Processed 251 benchmarks) ---
+  GUOQ wins on ibmnew: 31
+  TKET wins on ibmnew: 190
+  PYZX wins on ibmnew: 0
+  Benchmarks tied on ibmnew: 30
+  Overall for ibmnew: TKET is the winner for ibmnew (190 sole wins)
+
+=== ion ===
+  0410184_169: GUOQ=104 TKET=78 PYZX=N/A  → TKET wins
+  3_17_13: GUOQ=17 TKET=11 PYZX=N/A  → TKET wins
+  4_49_16: GUOQ=99 TKET=62 PYZX=N/A  → TKET wins
+  4gt10-v1_81: GUOQ=66 TKET=44 PYZX=N/A  → TKET wins
+  4gt11_83: GUOQ=14 TKET=8 PYZX=N/A  → TKET wins
+  4gt11_84: GUOQ=9 TKET=7 PYZX=N/A  → TKET wins
+  4gt12-v0_86: GUOQ=116 TKET=66 PYZX=N/A  → TKET wins
+  4gt12-v0_87: GUOQ=112 TKET=65 PYZX=N/A  → TKET wins
+  4gt12-v0_88: GUOQ=82 TKET=53 PYZX=N/A  → TKET wins
+  4gt12-v1_89: GUOQ=100 TKET=56 PYZX=N/A  → TKET wins
+  4gt13-v1_93: GUOQ=30 TKET=19 PYZX=N/A  → TKET wins
+  4gt13_90: GUOQ=53 TKET=26 PYZX=N/A  → TKET wins
+  4gt13_91: GUOQ=49 TKET=29 PYZX=N/A  → TKET wins
+  4gt13_92: GUOQ=30 TKET=17 PYZX=N/A  → TKET wins
+  4gt4-v0_72: GUOQ=113 TKET=69 PYZX=N/A  → TKET wins
+  4gt4-v0_73: GUOQ=179 TKET=100 PYZX=N/A  → TKET wins
+  4gt4-v0_78: GUOQ=109 TKET=63 PYZX=N/A  → TKET wins
+  4gt4-v0_79: GUOQ=105 TKET=64 PYZX=N/A  → TKET wins
+  4gt4-v0_80: GUOQ=79 TKET=53 PYZX=N/A  → TKET wins
+  4gt4-v1_74: GUOQ=119 TKET=85 PYZX=N/A  → TKET wins
+  4gt5_76: GUOQ=46 TKET=24 PYZX=N/A  → TKET wins
+  4gt5_77: GUOQ=56 TKET=34 PYZX=N/A  → TKET wins
+  4mod5-bdd_287: GUOQ=31 TKET=23 PYZX=N/A  → TKET wins
+  4mod5-v0_18: GUOQ=31 TKET=12 PYZX=N/A  → TKET wins
+  4mod5-v0_19: GUOQ=16 TKET=9 PYZX=N/A  → TKET wins
+  4mod5-v0_20: GUOQ=10 TKET=8 PYZX=N/A  → TKET wins
+  4mod5-v1_22: GUOQ=8 TKET=8 PYZX=N/A  → GUOQ & TKET tie
+  4mod5-v1_23: GUOQ=32 TKET=12 PYZX=N/A  → TKET wins
+  4mod5-v1_24: GUOQ=16 TKET=12 PYZX=N/A  → TKET wins
+  4mod7-v0_94: GUOQ=72 TKET=37 PYZX=N/A  → TKET wins
+  4mod7-v1_96: GUOQ=72 TKET=39 PYZX=N/A  → TKET wins
+  9symml_195: GUOQ=15232 TKET=0 PYZX=N/A  → TKET wins
+  C17_204: GUOQ=205 TKET=124 PYZX=N/A  → TKET wins
+  TFIM_step_100_16: GUOQ=240 TKET=240 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_100_32: GUOQ=992 TKET=992 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_100_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_100_8: GUOQ=56 TKET=56 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_10_4: GUOQ=10 TKET=12 PYZX=N/A  → GUOQ wins
+  TFIM_step_20_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_30_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_40_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_50_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_60_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_70_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_80_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  TFIM_step_90_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  XY_step_100_4: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  XY_step_100_8: GUOQ=56 TKET=55 PYZX=N/A  → TKET wins
+  adder_4: GUOQ=24 TKET=11 PYZX=N/A  → TKET wins
+  adder_8: GUOQ=408 TKET=237 PYZX=N/A  → TKET wins
+  adder_9: GUOQ=98 TKET=16 PYZX=N/A  → TKET wins
+  adr4_197: GUOQ=1498 TKET=865 PYZX=N/A  → TKET wins
+  ae_nativegates_ibm_tket_8: GUOQ=56 TKET=51 PYZX=N/A  → TKET wins
+  aj-e11_165: GUOQ=69 TKET=56 PYZX=N/A  → TKET wins
+  alu-bdd_288: GUOQ=38 TKET=28 PYZX=N/A  → TKET wins
+  alu-v0_26: GUOQ=37 TKET=29 PYZX=N/A  → TKET wins
+  alu-v0_27: GUOQ=17 TKET=16 PYZX=N/A  → TKET wins
+  alu-v1_28: GUOQ=18 TKET=15 PYZX=N/A  → TKET wins
+  alu-v1_29: GUOQ=17 TKET=16 PYZX=N/A  → TKET wins
+  alu-v2_30: GUOQ=223 TKET=150 PYZX=N/A  → TKET wins
+  alu-v2_31: GUOQ=198 TKET=115 PYZX=N/A  → TKET wins
+  alu-v2_32: GUOQ=71 TKET=41 PYZX=N/A  → TKET wins
+  alu-v2_33: GUOQ=17 TKET=15 PYZX=N/A  → TKET wins
+  alu-v3_34: GUOQ=24 TKET=19 PYZX=N/A  → TKET wins
+  alu-v3_35: GUOQ=18 TKET=16 PYZX=N/A  → TKET wins
+  alu-v4_36: GUOQ=44 TKET=34 PYZX=N/A  → TKET wins
+  alu-v4_37: GUOQ=17 TKET=16 PYZX=N/A  → TKET wins
+  barenco_tof_10: GUOQ=192 TKET=117 PYZX=N/A  → TKET wins
+  barenco_tof_3: GUOQ=24 TKET=18 PYZX=N/A  → TKET wins
+  barenco_tof_4: GUOQ=48 TKET=33 PYZX=N/A  → TKET wins
+  barenco_tof_5: GUOQ=72 TKET=48 PYZX=N/A  → TKET wins
+  clip_206: GUOQ=14772 TKET=8025 PYZX=N/A  → TKET wins
+  cm152a_212: GUOQ=532 TKET=289 PYZX=N/A  → TKET wins
+  cm42a_207: GUOQ=771 TKET=420 PYZX=N/A  → TKET wins
+  cm82a_208: GUOQ=283 TKET=142 PYZX=N/A  → TKET wins
+  cm85a_209: GUOQ=4986 TKET=2680 PYZX=N/A  → TKET wins
+  cnt3-5_179: GUOQ=85 TKET=78 PYZX=N/A  → TKET wins
+  cnt3-5_180: GUOQ=215 TKET=151 PYZX=N/A  → TKET wins
+  co14_215: GUOQ=7840 TKET=4700 PYZX=N/A  → TKET wins
+  con1_216: GUOQ=415 TKET=235 PYZX=N/A  → TKET wins
+  csla_mux_3: GUOQ=80 TKET=75 PYZX=N/A  → TKET wins
+  csum_mux_9: GUOQ=168 TKET=138 PYZX=N/A  → TKET wins
+  cycle10_2_110: GUOQ=2648 TKET=1534 PYZX=N/A  → TKET wins
+  dc1_220: GUOQ=833 TKET=490 PYZX=N/A  → TKET wins
+  dc2_222: GUOQ=4131 TKET=2210 PYZX=N/A  → TKET wins
+  decod24-bdd_294: GUOQ=32 TKET=17 PYZX=N/A  → TKET wins
+  decod24-enable_126: GUOQ=149 TKET=97 PYZX=N/A  → TKET wins
+  decod24-v0_38: GUOQ=23 TKET=17 PYZX=N/A  → TKET wins
+  decod24-v1_41: GUOQ=38 TKET=28 PYZX=N/A  → TKET wins
+  decod24-v2_43: GUOQ=22 TKET=16 PYZX=N/A  → TKET wins
+  decod24-v3_45: GUOQ=64 TKET=42 PYZX=N/A  → TKET wins
+  dist_223: GUOQ=16624 TKET=9550 PYZX=N/A  → TKET wins
+  ex-1_166: GUOQ=9 TKET=7 PYZX=N/A  → TKET wins
+  ex1_226: GUOQ=5 TKET=5 PYZX=N/A  → GUOQ & TKET tie
+  ex2_227: GUOQ=275 TKET=160 PYZX=N/A  → TKET wins
+  ex3_229: GUOQ=175 TKET=105 PYZX=N/A  → TKET wins
+  f2_232: GUOQ=525 TKET=298 PYZX=N/A  → TKET wins
+  gf2^10_mult: GUOQ=609 TKET=1218 PYZX=N/A  → GUOQ wins
+  gf2^4_mult: GUOQ=99 TKET=198 PYZX=N/A  → GUOQ wins
+  gf2^5_mult: GUOQ=154 TKET=308 PYZX=N/A  → GUOQ wins
+  gf2^6_mult: GUOQ=221 TKET=442 PYZX=N/A  → GUOQ wins
+  gf2^7_mult: GUOQ=300 TKET=600 PYZX=N/A  → GUOQ wins
+  gf2^8_mult: GUOQ=405 TKET=810 PYZX=N/A  → GUOQ wins
+  gf2^9_mult: GUOQ=494 TKET=988 PYZX=N/A  → GUOQ wins
+  graycode6_47: GUOQ=5 TKET=5 PYZX=N/A  → GUOQ & TKET tie
+  ground_state_estimation_10: GUOQ=154209 TKET=0 PYZX=N/A  → TKET wins
+  grover_pigeon3: GUOQ=92 TKET=184 PYZX=N/A  → GUOQ wins
+  ham15-high: GUOQ=2149 TKET=1441 PYZX=N/A  → TKET wins
+  ham15-low: GUOQ=236 TKET=205 PYZX=N/A  → TKET wins
+  ham15-med: GUOQ=534 TKET=347 PYZX=N/A  → TKET wins
+  ham15_107: GUOQ=3858 TKET=2342 PYZX=N/A  → TKET wins
+  ham3_102: GUOQ=11 TKET=6 PYZX=N/A  → TKET wins
+  ham7_104: GUOQ=149 TKET=88 PYZX=N/A  → TKET wins
+  heisenberg_step_10_4: GUOQ=180 TKET=27 PYZX=N/A  → TKET wins
+  heisenberg_step_15_4: GUOQ=270 TKET=36 PYZX=N/A  → TKET wins
+  heisenberg_step_20_4: GUOQ=360 TKET=47 PYZX=N/A  → TKET wins
+  heisenberg_step_25_4: GUOQ=450 TKET=56 PYZX=N/A  → TKET wins
+  heisenberg_step_30_4: GUOQ=540 TKET=67 PYZX=N/A  → TKET wins
+  heisenberg_step_35_4: GUOQ=630 TKET=76 PYZX=N/A  → TKET wins
+  heisenberg_step_40_4: GUOQ=718 TKET=87 PYZX=N/A  → TKET wins
+  heisenberg_step_45_4: GUOQ=810 TKET=96 PYZX=N/A  → TKET wins
+  heisenberg_step_50_4: GUOQ=898 TKET=107 PYZX=N/A  → TKET wins
+  heisenberg_step_50_8: GUOQ=2100 TKET=509 PYZX=N/A  → TKET wins
+  heisenberg_step_5_4: GUOQ=90 TKET=16 PYZX=N/A  → TKET wins
+  hlf_10: GUOQ=56 TKET=17 PYZX=N/A  → TKET wins
+  hlf_5: GUOQ=14 TKET=4 PYZX=N/A  → TKET wins
+  hwb4_49: GUOQ=107 TKET=68 PYZX=N/A  → TKET wins
+  hwb5_53: GUOQ=598 TKET=368 PYZX=N/A  → TKET wins
+  hwb6: GUOQ=116 TKET=86 PYZX=N/A  → TKET wins
+  hwb6_56: GUOQ=2949 TKET=1813 PYZX=N/A  → TKET wins
+  hwb7_59: GUOQ=10681 TKET=6437 PYZX=N/A  → TKET wins
+  hwb8_113: GUOQ=30372 TKET=18548 PYZX=N/A  → TKET wins
+  hwb9_119: GUOQ=90955 TKET=55266 PYZX=N/A  → TKET wins
+  inc_237: GUOQ=4636 TKET=2337 PYZX=N/A  → TKET wins
+  ising_model_10: GUOQ=90 TKET=72 PYZX=N/A  → TKET wins
+  ising_model_13: GUOQ=120 TKET=96 PYZX=N/A  → TKET wins
+  ising_model_16: GUOQ=150 TKET=120 PYZX=N/A  → TKET wins
+  life_238: GUOQ=9800 TKET=0 PYZX=N/A  → TKET wins
+  majority_239: GUOQ=264 TKET=152 PYZX=N/A  → TKET wins
+  max46_240: GUOQ=11844 TKET=6960 PYZX=N/A  → TKET wins
+  miller_11: GUOQ=23 TKET=16 PYZX=N/A  → TKET wins
+  mini-alu_167: GUOQ=126 TKET=75 PYZX=N/A  → TKET wins
+  mini_alu_305: GUOQ=77 TKET=58 PYZX=N/A  → TKET wins
+  misex1_241: GUOQ=2100 TKET=1082 PYZX=N/A  → TKET wins
+  mlp4_245: GUOQ=8232 TKET=4529 PYZX=N/A  → TKET wins
+  mod10_171: GUOQ=108 TKET=74 PYZX=N/A  → TKET wins
+  mod10_176: GUOQ=78 TKET=51 PYZX=N/A  → TKET wins
+  mod5_4: GUOQ=28 TKET=12 PYZX=N/A  → TKET wins
+  mod5adder_127: GUOQ=239 TKET=147 PYZX=N/A  → TKET wins
+  mod5d1_63: GUOQ=13 TKET=10 PYZX=N/A  → TKET wins
+  mod5d2_64: GUOQ=24 TKET=16 PYZX=N/A  → TKET wins
+  mod5mils_65: GUOQ=16 TKET=9 PYZX=N/A  → TKET wins
+  mod8-10_177: GUOQ=196 TKET=124 PYZX=N/A  → TKET wins
+  mod8-10_178: GUOQ=152 TKET=93 PYZX=N/A  → TKET wins
+  mod_mult_55: GUOQ=48 TKET=43 PYZX=N/A  → TKET wins
+  mod_red_21: GUOQ=105 TKET=89 PYZX=N/A  → TKET wins
+  muliply_5: GUOQ=20 TKET=10 PYZX=N/A  → TKET wins
+  multiply_10: GUOQ=163 TKET=50 PYZX=N/A  → TKET wins
+  one-two-three-v0_97: GUOQ=128 TKET=73 PYZX=N/A  → TKET wins
+  one-two-three-v0_98: GUOQ=65 TKET=39 PYZX=N/A  → TKET wins
+  one-two-three-v1_99: GUOQ=59 TKET=31 PYZX=N/A  → TKET wins
+  one-two-three-v2_100: GUOQ=32 TKET=26 PYZX=N/A  → TKET wins
+  one-two-three-v3_101: GUOQ=29 TKET=26 PYZX=N/A  → TKET wins
+  plus63mod4096_163: GUOQ=56329 TKET=0 PYZX=N/A  → TKET wins
+  plus63mod8192_164: GUOQ=81865 TKET=48414 PYZX=N/A  → TKET wins
+  pm1_249: GUOQ=771 TKET=420 PYZX=N/A  → TKET wins
+  portfolioqaoa_nativegates_ibm_tket_8: GUOQ=168 TKET=105 PYZX=N/A  → TKET wins
+  portfoliovqe_nativegates_ibm_tket_8: GUOQ=84 TKET=43 PYZX=N/A  → TKET wins
+  qaoa_10: GUOQ=85 TKET=37 PYZX=N/A  → TKET wins
+  qaoa_5: GUOQ=42 TKET=15 PYZX=N/A  → TKET wins
+  qaoa_n10_p4: GUOQ=120 TKET=240 PYZX=N/A  → GUOQ wins
+  qaoa_n14_p4: GUOQ=168 TKET=168 PYZX=N/A  → GUOQ & TKET tie
+  qaoa_n20_p4: GUOQ=240 TKET=480 PYZX=N/A  → GUOQ wins
+  qaoa_n30_p4: GUOQ=360 TKET=720 PYZX=N/A  → GUOQ wins
+  qaoa_n4_p4: GUOQ=48 TKET=30 PYZX=N/A  → TKET wins
+  qaoa_n6_p4: GUOQ=72 TKET=61 PYZX=N/A  → TKET wins
+  qaoa_n8_p4: GUOQ=96 TKET=88 PYZX=N/A  → TKET wins
+  qaoa_nativegates_ibm_tket_8: GUOQ=32 TKET=64 PYZX=N/A  → GUOQ wins
+  qcla_adder_10: GUOQ=233 TKET=204 PYZX=N/A  → TKET wins
+  qcla_com_7: GUOQ=186 TKET=123 PYZX=N/A  → TKET wins
+  qcla_mod_7: GUOQ=382 TKET=318 PYZX=N/A  → TKET wins
+  qe_qft_4: GUOQ=27 TKET=11 PYZX=N/A  → TKET wins
+  qe_qft_5: GUOQ=38 TKET=18 PYZX=N/A  → TKET wins
+  qft_10: GUOQ=86 TKET=0 PYZX=N/A  → TKET wins
+  qft_10_quest: GUOQ=216 TKET=79 PYZX=N/A  → TKET wins
+  qft_16: GUOQ=236 TKET=0 PYZX=N/A  → TKET wins
+  qft_20: GUOQ=380 TKET=228 PYZX=N/A  → TKET wins
+  qft_5: GUOQ=33 TKET=18 PYZX=N/A  → TKET wins
+  qft_nativegates_ibm_tket_8: GUOQ=68 TKET=54 PYZX=N/A  → TKET wins
+  qftentangled_nativegates_ibm_tket_8: GUOQ=75 TKET=50 PYZX=N/A  → TKET wins
+  qgan_nativegates_ibm_tket_8: GUOQ=28 TKET=13 PYZX=N/A  → TKET wins
+  qiskit-3_17_13: GUOQ=9 TKET=11 PYZX=N/A  → GUOQ wins
+  qiskit-alu-v0_26: GUOQ=38 TKET=29 PYZX=N/A  → TKET wins
+  qpeexact_nativegates_ibm_tket_8: GUOQ=64 TKET=50 PYZX=N/A  → TKET wins
+  qpeinexact_nativegates_ibm_tket_8: GUOQ=65 TKET=51 PYZX=N/A  → TKET wins
+  qv_15_d2: GUOQ=42 TKET=42 PYZX=N/A  → GUOQ & TKET tie
+  qv_20_d2: GUOQ=60 TKET=60 PYZX=N/A  → GUOQ & TKET tie
+  qv_30_d2: GUOQ=90 TKET=90 PYZX=N/A  → GUOQ & TKET tie
+  qv_5_d2: GUOQ=12 TKET=12 PYZX=N/A  → GUOQ & TKET tie
+  radd_250: GUOQ=1405 TKET=835 PYZX=N/A  → TKET wins
+  rc_adder_6: GUOQ=93 TKET=73 PYZX=N/A  → TKET wins
+  rd32-v0_66: GUOQ=16 TKET=10 PYZX=N/A  → TKET wins
+  rd32-v1_68: GUOQ=16 TKET=10 PYZX=N/A  → TKET wins
+  rd32_270: GUOQ=36 TKET=12 PYZX=N/A  → TKET wins
+  rd53_130: GUOQ=442 TKET=274 PYZX=N/A  → TKET wins
+  rd53_131: GUOQ=200 TKET=100 PYZX=N/A  → TKET wins
+  rd53_133: GUOQ=256 TKET=135 PYZX=N/A  → TKET wins
+  rd53_135: GUOQ=133 TKET=83 PYZX=N/A  → TKET wins
+  rd53_138: GUOQ=60 TKET=50 PYZX=N/A  → TKET wins
+  rd53_251: GUOQ=564 TKET=320 PYZX=N/A  → TKET wins
+  rd53_311: GUOQ=124 TKET=90 PYZX=N/A  → TKET wins
+  rd73_140: GUOQ=104 TKET=92 PYZX=N/A  → TKET wins
+  rd73_252: GUOQ=2319 TKET=1364 PYZX=N/A  → TKET wins
+  rd84_142: GUOQ=154 TKET=133 PYZX=N/A  → TKET wins
+  rd84_253: GUOQ=5960 TKET=3600 PYZX=N/A  → TKET wins
+  root_255: GUOQ=7492 TKET=4247 PYZX=N/A  → TKET wins
+  sao2_257: GUOQ=16864 TKET=0 PYZX=N/A  → TKET wins
+  sf_274: GUOQ=336 TKET=168 PYZX=N/A  → TKET wins
+  sf_276: GUOQ=336 TKET=194 PYZX=N/A  → TKET wins
+  shor_15_7: GUOQ=14858 TKET=9585 PYZX=N/A  → TKET wins
+  sqn_258: GUOQ=4459 TKET=2734 PYZX=N/A  → TKET wins
+  sqrt8_260: GUOQ=1314 TKET=755 PYZX=N/A  → TKET wins
+  squar5_261: GUOQ=869 TKET=500 PYZX=N/A  → TKET wins
+  square_root_7: GUOQ=3089 TKET=1567 PYZX=N/A  → TKET wins
+  sym10_262: GUOQ=28084 TKET=17069 PYZX=N/A  → TKET wins
+  sym6_145: GUOQ=1701 TKET=974 PYZX=N/A  → TKET wins
+  sym6_316: GUOQ=123 TKET=78 PYZX=N/A  → TKET wins
+  sym9_146: GUOQ=148 TKET=138 PYZX=N/A  → TKET wins
+  sym9_148: GUOQ=9408 TKET=4807 PYZX=N/A  → TKET wins
+  sym9_193: GUOQ=15232 TKET=8920 PYZX=N/A  → TKET wins
+  sys6-v0_111: GUOQ=98 TKET=89 PYZX=N/A  → TKET wins
+  tof_10: GUOQ=102 TKET=85 PYZX=N/A  → TKET wins
+  tof_3: GUOQ=18 TKET=15 PYZX=N/A  → TKET wins
+  tof_4: GUOQ=30 TKET=26 PYZX=N/A  → TKET wins
+  tof_5: GUOQ=42 TKET=35 PYZX=N/A  → TKET wins
+  urf1_149: GUOQ=80878 TKET=49830 PYZX=N/A  → TKET wins
+  urf1_278: GUOQ=26692 TKET=17692 PYZX=N/A  → TKET wins
+  urf2_152: GUOQ=35210 TKET=21914 PYZX=N/A  → TKET wins
+  urf2_277: GUOQ=10066 TKET=6894 PYZX=N/A  → TKET wins
+  urf3_155: GUOQ=185276 TKET=0 PYZX=N/A  → TKET wins
+  urf3_279: GUOQ=60380 TKET=40852 PYZX=N/A  → TKET wins
+  urf4_187: GUOQ=224026 TKET=0 PYZX=N/A  → TKET wins
+  urf5_158: GUOQ=71932 TKET=42433 PYZX=N/A  → TKET wins
+  urf5_280: GUOQ=23764 TKET=16189 PYZX=N/A  → TKET wins
+  urf6_160: GUOQ=75180 TKET=46952 PYZX=N/A  → TKET wins
+  vbe_adder_3: GUOQ=70 TKET=39 PYZX=N/A  → TKET wins
+  vqe_4: GUOQ=74 TKET=48 PYZX=N/A  → TKET wins
+  vqe_nativegates_ibm_tket_8: GUOQ=14 TKET=28 PYZX=N/A  → GUOQ wins
+  vqe_uccsd_n4: GUOQ=88 TKET=17 PYZX=N/A  → TKET wins
+  vqe_uccsd_n6: GUOQ=1052 TKET=115 PYZX=N/A  → TKET wins
+  vqe_uccsd_n8: GUOQ=5488 TKET=457 PYZX=N/A  → TKET wins
+  wim_266: GUOQ=427 TKET=242 PYZX=N/A  → TKET wins
+  xor5_254: GUOQ=5 TKET=5 PYZX=N/A  → GUOQ & TKET tie
+  z4_268: GUOQ=1343 TKET=739 PYZX=N/A  → TKET wins
+--- ion Summary (Processed 254 benchmarks) ---
+  GUOQ wins on ion: 15
+  TKET wins on ion: 217
+  PYZX wins on ion: 0
+  Benchmarks tied on ion: 22
+  Overall for ion: TKET is the winner for ion (217 sole wins)
+
+=== nam_rz ===
+  0410184_169: GUOQ=81 TKET=78 PYZX=104  → TKET wins
+  3_17_13: GUOQ=12 TKET=11 PYZX=16  → TKET wins
+  4_49_16: GUOQ=70 TKET=62 PYZX=97  → TKET wins
+  4gt10-v1_81: GUOQ=45 TKET=44 PYZX=67  → TKET wins
+  4gt11_83: GUOQ=13 TKET=8 PYZX=20  → TKET wins
+  4gt11_84: GUOQ=8 TKET=7 PYZX=11  → TKET wins
+  4gt12-v0_86: GUOQ=80 TKET=66 PYZX=118  → TKET wins
+  4gt12-v0_87: GUOQ=97 TKET=65 PYZX=116  → TKET wins
+  4gt12-v0_88: GUOQ=62 TKET=53 PYZX=83  → TKET wins
+  4gt12-v1_89: GUOQ=72 TKET=56 PYZX=97  → TKET wins
+  4gt13-v1_93: GUOQ=22 TKET=19 PYZX=32  → TKET wins
+  4gt13_90: GUOQ=34 TKET=26 PYZX=53  → TKET wins
+  4gt13_91: GUOQ=32 TKET=29 PYZX=50  → TKET wins
+  4gt13_92: GUOQ=22 TKET=17 PYZX=29  → TKET wins
+  4gt4-v0_72: GUOQ=74 TKET=69 PYZX=109  → TKET wins
+  4gt4-v0_73: GUOQ=129 TKET=100 PYZX=178  → TKET wins
+  4gt4-v0_78: GUOQ=74 TKET=63 PYZX=109  → TKET wins
+  4gt4-v0_79: GUOQ=76 TKET=64 PYZX=104  → TKET wins
+  4gt4-v0_80: GUOQ=60 TKET=53 PYZX=75  → TKET wins
+  4gt4-v1_74: GUOQ=94 TKET=85 PYZX=116  → TKET wins
+  4gt5_76: GUOQ=36 TKET=24 PYZX=48  → TKET wins
+  4gt5_77: GUOQ=41 TKET=34 PYZX=59  → TKET wins
+  4mod5-bdd_287: GUOQ=23 TKET=22 PYZX=30  → TKET wins
+  4mod5-v0_18: GUOQ=17 TKET=12 PYZX=37  → TKET wins
+  4mod5-v0_19: GUOQ=12 TKET=9 PYZX=16  → TKET wins
+  4mod5-v0_20: GUOQ=7 TKET=8 PYZX=12  → GUOQ wins
+  4mod5-v1_22: GUOQ=8 TKET=8 PYZX=12  → GUOQ & TKET tie
+  4mod5-v1_23: GUOQ=24 TKET=12 PYZX=28  → TKET wins
+  4mod5-v1_24: GUOQ=12 TKET=12 PYZX=15  → GUOQ & TKET tie
+  4mod7-v0_94: GUOQ=43 TKET=37 PYZX=71  → TKET wins
+  4mod7-v1_96: GUOQ=49 TKET=39 PYZX=70  → TKET wins
+  9symml_195: GUOQ=15232 TKET=8920 PYZX=15083  → TKET wins
+  C17_204: GUOQ=137 TKET=124 PYZX=204  → TKET wins
+  TFIM_step_100_16: GUOQ=240 TKET=240 PYZX=0  → PYZX wins
+  TFIM_step_100_32: GUOQ=992 TKET=992 PYZX=0  → PYZX wins
+  TFIM_step_100_4: GUOQ=12 TKET=12 PYZX=0  → PYZX wins
+  TFIM_step_100_8: GUOQ=56 TKET=56 PYZX=0  → PYZX wins
+  TFIM_step_10_4: GUOQ=12 TKET=12 PYZX=0  → PYZX wins
+  TFIM_step_20_4: GUOQ=12 TKET=12 PYZX=0  → PYZX wins
+  TFIM_step_30_4: GUOQ=12 TKET=12 PYZX=0  → PYZX wins
+  TFIM_step_40_4: GUOQ=12 TKET=12 PYZX=0  → PYZX wins
+  TFIM_step_50_4: GUOQ=12 TKET=12 PYZX=0  → PYZX wins
+  TFIM_step_60_4: GUOQ=12 TKET=12 PYZX=0  → PYZX wins
+  TFIM_step_70_4: GUOQ=12 TKET=12 PYZX=0  → PYZX wins
+  TFIM_step_80_4: GUOQ=12 TKET=12 PYZX=0  → PYZX wins
+  TFIM_step_90_4: GUOQ=12 TKET=12 PYZX=0  → PYZX wins
+  XY_step_100_4: GUOQ=12 TKET=12 PYZX=0  → PYZX wins
+  XY_step_100_8: GUOQ=56 TKET=55 PYZX=0  → PYZX wins
+  adder_4: GUOQ=17 TKET=11 PYZX=20  → TKET wins
+  adder_8: GUOQ=305 TKET=237 PYZX=350  → TKET wins
+  adder_9: GUOQ=48 TKET=16 PYZX=63  → TKET wins
+  adr4_197: GUOQ=1415 TKET=865 PYZX=1485  → TKET wins
+  ae_nativegates_ibm_tket_8: GUOQ=56 TKET=51 PYZX=40  → PYZX wins
+  aj-e11_165: GUOQ=50 TKET=56 PYZX=68  → GUOQ wins
+  alu-bdd_288: GUOQ=27 TKET=28 PYZX=36  → GUOQ wins
+  alu-v0_26: GUOQ=27 TKET=29 PYZX=37  → GUOQ wins
+  alu-v0_27: GUOQ=15 TKET=16 PYZX=16  → GUOQ wins
+  alu-v1_28: GUOQ=14 TKET=15 PYZX=17  → GUOQ wins
+  alu-v1_29: GUOQ=15 TKET=16 PYZX=16  → GUOQ wins
+  alu-v2_30: GUOQ=186 TKET=150 PYZX=215  → TKET wins
+  alu-v2_31: GUOQ=158 TKET=115 PYZX=188  → TKET wins
+  alu-v2_32: GUOQ=51 TKET=41 PYZX=72  → TKET wins
+  alu-v2_33: GUOQ=15 TKET=15 PYZX=16  → GUOQ & TKET tie
+  alu-v3_34: GUOQ=21 TKET=19 PYZX=23  → TKET wins
+  alu-v3_35: GUOQ=16 TKET=16 PYZX=16  → GUOQ & PYZX & TKET tie
+  alu-v4_36: GUOQ=34 TKET=34 PYZX=48  → GUOQ & TKET tie
+  alu-v4_37: GUOQ=16 TKET=16 PYZX=16  → GUOQ & PYZX & TKET tie
+  barenco_tof_10: GUOQ=146 TKET=117 PYZX=175  → TKET wins
+  barenco_tof_3: GUOQ=20 TKET=18 PYZX=21  → TKET wins
+  barenco_tof_4: GUOQ=38 TKET=33 PYZX=43  → TKET wins
+  barenco_tof_5: GUOQ=56 TKET=48 PYZX=65  → TKET wins
+  clip_206: GUOQ=14772 TKET=8025 PYZX=14732  → TKET wins
+  cm152a_212: GUOQ=386 TKET=289 PYZX=532  → TKET wins
+  cm42a_207: GUOQ=707 TKET=420 PYZX=771  → TKET wins
+  cm82a_208: GUOQ=240 TKET=142 PYZX=281  → TKET wins
+  cm85a_209: GUOQ=4986 TKET=2680 PYZX=4946  → TKET wins
+  cnt3-5_179: GUOQ=65 TKET=78 PYZX=65  → GUOQ & PYZX tie
+  cnt3-5_180: GUOQ=156 TKET=151 PYZX=205  → TKET wins
+  co14_215: GUOQ=7840 TKET=4700 PYZX=7837  → TKET wins
+  con1_216: GUOQ=314 TKET=235 PYZX=416  → TKET wins
+  csla_mux_3: GUOQ=70 TKET=75 PYZX=77  → GUOQ wins
+  csum_mux_9: GUOQ=141 TKET=138 PYZX=160  → TKET wins
+  cycle10_2_110: GUOQ=2644 TKET=1534 PYZX=2549  → TKET wins
+  dc1_220: GUOQ=732 TKET=490 PYZX=833  → TKET wins
+  dc2_222: GUOQ=4131 TKET=2210 PYZX=4101  → TKET wins
+  decod24-bdd_294: GUOQ=22 TKET=17 PYZX=29  → TKET wins
+  decod24-enable_126: GUOQ=149 TKET=97 PYZX=142  → TKET wins
+  decod24-v0_38: GUOQ=14 TKET=17 PYZX=20  → GUOQ wins
+  decod24-v1_41: GUOQ=29 TKET=28 PYZX=37  → TKET wins
+  decod24-v2_43: GUOQ=16 TKET=16 PYZX=24  → GUOQ & TKET tie
+  decod24-v3_45: GUOQ=45 TKET=42 PYZX=62  → TKET wins
+  dist_223: GUOQ=16624 TKET=9550 PYZX=16606  → TKET wins
+  ex-1_166: GUOQ=8 TKET=7 PYZX=8  → TKET wins
+  ex1_226: GUOQ=5 TKET=5 PYZX=5  → GUOQ & PYZX & TKET tie
+  ex2_227: GUOQ=226 TKET=160 PYZX=271  → TKET wins
+  ex3_229: GUOQ=140 TKET=105 PYZX=174  → TKET wins
+  f2_232: GUOQ=448 TKET=298 PYZX=525  → TKET wins
+  gf2^10_mult: GUOQ=609 TKET=609 PYZX=600  → PYZX wins
+  gf2^4_mult: GUOQ=91 TKET=99 PYZX=96  → GUOQ wins
+  gf2^5_mult: GUOQ=149 TKET=154 PYZX=150  → GUOQ wins
+  gf2^6_mult: GUOQ=215 TKET=221 PYZX=216  → GUOQ wins
+  gf2^7_mult: GUOQ=292 TKET=300 PYZX=294  → GUOQ wins
+  gf2^8_mult: GUOQ=401 TKET=405 PYZX=398  → PYZX wins
+  gf2^9_mult: GUOQ=492 TKET=494 PYZX=486  → PYZX wins
+  graycode6_47: GUOQ=5 TKET=5 PYZX=5  → GUOQ & PYZX & TKET tie
+  [WARN] no PYZX result file for ground_state_estimation_10 in results/pyzx_results/nam_rz (tried ground_state_estimation_10.qasm and ground_state_estimation_10_pyzx.qasm)
+  ground_state_estimation_10: GUOQ=154209 TKET=0 PYZX=N/A  → TKET wins
+  grover_pigeon3: GUOQ=92 TKET=92 PYZX=92  → GUOQ & PYZX & TKET tie
+  ham15-high: GUOQ=2149 TKET=1439 PYZX=1992  → TKET wins
+  ham15-low: GUOQ=199 TKET=205 PYZX=237  → GUOQ wins
+  ham15-med: GUOQ=388 TKET=347 PYZX=509  → TKET wins
+  ham15_107: GUOQ=3858 TKET=2342 PYZX=3770  → TKET wins
+  ham3_102: GUOQ=7 TKET=6 PYZX=10  → TKET wins
+  ham7_104: GUOQ=102 TKET=88 PYZX=152  → TKET wins
+  heisenberg_step_10_4: GUOQ=100 TKET=27 PYZX=0  → PYZX wins
+  heisenberg_step_15_4: GUOQ=150 TKET=36 PYZX=0  → PYZX wins
+  heisenberg_step_20_4: GUOQ=202 TKET=47 PYZX=0  → PYZX wins
+  heisenberg_step_25_4: GUOQ=250 TKET=56 PYZX=0  → PYZX wins
+  heisenberg_step_30_4: GUOQ=300 TKET=67 PYZX=0  → PYZX wins
+  heisenberg_step_35_4: GUOQ=394 TKET=76 PYZX=0  → PYZX wins
+  heisenberg_step_40_4: GUOQ=438 TKET=87 PYZX=0  → PYZX wins
+  heisenberg_step_45_4: GUOQ=540 TKET=96 PYZX=0  → PYZX wins
+  heisenberg_step_50_4: GUOQ=600 TKET=107 PYZX=0  → PYZX wins
+  heisenberg_step_50_8: GUOQ=1400 TKET=509 PYZX=0  → PYZX wins
+  heisenberg_step_5_4: GUOQ=50 TKET=16 PYZX=0  → PYZX wins
+  hlf_10: GUOQ=41 TKET=17 PYZX=39  → TKET wins
+  hlf_5: GUOQ=14 TKET=4 PYZX=10  → TKET wins
+  hwb4_49: GUOQ=72 TKET=68 PYZX=108  → TKET wins
+  hwb5_53: GUOQ=487 TKET=360 PYZX=586  → TKET wins
+  hwb6: GUOQ=98 TKET=86 PYZX=100  → TKET wins
+  hwb6_56: GUOQ=2952 TKET=1813 PYZX=2897  → TKET wins
+  hwb7_59: GUOQ=10681 TKET=6437 PYZX=10372  → TKET wins
+  hwb8_113: GUOQ=30372 TKET=18402 PYZX=29614  → TKET wins
+  hwb9_119: GUOQ=90955 TKET=55314 PYZX=88394  → TKET wins
+  inc_237: GUOQ=4636 TKET=2337 PYZX=4550  → TKET wins
+  ising_model_10: GUOQ=72 TKET=72 PYZX=80  → GUOQ & TKET tie
+  ising_model_13: GUOQ=96 TKET=96 PYZX=104  → GUOQ & TKET tie
+  ising_model_16: GUOQ=120 TKET=120 PYZX=126  → GUOQ & TKET tie
+  life_238: GUOQ=9800 TKET=5678 PYZX=9728  → TKET wins
+  majority_239: GUOQ=214 TKET=152 PYZX=267  → TKET wins
+  max46_240: GUOQ=11844 TKET=6960 PYZX=11742  → TKET wins
+  miller_11: GUOQ=18 TKET=16 PYZX=22  → TKET wins
+  mini-alu_167: GUOQ=90 TKET=75 PYZX=124  → TKET wins
+  mini_alu_305: GUOQ=54 TKET=58 PYZX=74  → GUOQ wins
+  misex1_241: GUOQ=2100 TKET=1082 PYZX=2100  → TKET wins
+  mlp4_245: GUOQ=8232 TKET=4529 PYZX=8226  → TKET wins
+  mod10_171: GUOQ=73 TKET=74 PYZX=108  → GUOQ wins
+  mod10_176: GUOQ=53 TKET=51 PYZX=79  → TKET wins
+  mod5_4: GUOQ=18 TKET=12 PYZX=23  → TKET wins
+  mod5adder_127: GUOQ=175 TKET=147 PYZX=234  → TKET wins
+  mod5d1_63: GUOQ=11 TKET=10 PYZX=12  → TKET wins
+  mod5d2_64: GUOQ=19 TKET=16 PYZX=25  → TKET wins
+  mod5mils_65: GUOQ=12 TKET=9 PYZX=15  → TKET wins
+  mod8-10_177: GUOQ=155 TKET=124 PYZX=187  → TKET wins
+  mod8-10_178: GUOQ=123 TKET=93 PYZX=147  → TKET wins
+  mod_mult_55: GUOQ=44 TKET=45 PYZX=46  → GUOQ wins
+  mod_red_21: GUOQ=91 TKET=89 PYZX=91  → TKET wins
+  muliply_5: GUOQ=20 TKET=10 PYZX=19  → TKET wins
+  multiply_10: GUOQ=84 TKET=50 PYZX=103  → TKET wins
+  one-two-three-v0_97: GUOQ=87 TKET=73 PYZX=124  → TKET wins
+  one-two-three-v0_98: GUOQ=42 TKET=39 PYZX=69  → TKET wins
+  one-two-three-v1_99: GUOQ=41 TKET=31 PYZX=58  → TKET wins
+  one-two-three-v2_100: GUOQ=22 TKET=26 PYZX=32  → GUOQ wins
+  one-two-three-v3_101: GUOQ=23 TKET=26 PYZX=30  → GUOQ wins
+  plus63mod4096_163: GUOQ=56329 TKET=32959 PYZX=54719  → TKET wins
+  plus63mod8192_164: GUOQ=81865 TKET=48414 PYZX=79351  → TKET wins
+  pm1_249: GUOQ=756 TKET=420 PYZX=771  → TKET wins
+  portfolioqaoa_nativegates_ibm_tket_8: GUOQ=168 TKET=105 PYZX=167  → TKET wins
+  portfoliovqe_nativegates_ibm_tket_8: GUOQ=84 TKET=43 PYZX=40  → PYZX wins
+  qaoa_10: GUOQ=47 TKET=39 PYZX=64  → TKET wins
+  qaoa_5: GUOQ=26 TKET=15 PYZX=21  → TKET wins
+  qaoa_n10_p4: GUOQ=116 TKET=120 PYZX=92  → PYZX wins
+  qaoa_n14_p4: GUOQ=160 TKET=168 PYZX=136  → PYZX wins
+  qaoa_n20_p4: GUOQ=234 TKET=240 PYZX=193  → PYZX wins
+  qaoa_n30_p4: GUOQ=349 TKET=360 PYZX=289  → PYZX wins
+  qaoa_n4_p4: GUOQ=35 TKET=30 PYZX=40  → TKET wins
+  qaoa_n6_p4: GUOQ=66 TKET=61 PYZX=59  → PYZX wins
+  qaoa_n8_p4: GUOQ=87 TKET=93 PYZX=77  → PYZX wins
+  qaoa_nativegates_ibm_tket_8: GUOQ=32 TKET=32 PYZX=30  → PYZX wins
+  qcla_adder_10: GUOQ=208 TKET=206 PYZX=200  → PYZX wins
+  qcla_com_7: GUOQ=138 TKET=124 PYZX=168  → TKET wins
+  qcla_mod_7: GUOQ=346 TKET=325 PYZX=346  → TKET wins
+  qe_qft_4: GUOQ=27 TKET=11 PYZX=13  → TKET wins
+  qe_qft_5: GUOQ=34 TKET=18 PYZX=26  → TKET wins
+  qft_10: GUOQ=0 TKET=0 PYZX=30  → GUOQ & TKET tie
+  qft_10_quest: GUOQ=103 TKET=79 PYZX=131  → TKET wins
+  qft_16: GUOQ=0 TKET=0 PYZX=54  → GUOQ & TKET tie
+  qft_20: GUOQ=380 TKET=228 PYZX=107  → PYZX wins
+  qft_5: GUOQ=25 TKET=18 PYZX=25  → TKET wins
+  qft_nativegates_ibm_tket_8: GUOQ=68 TKET=54 PYZX=45  → PYZX wins
+  qftentangled_nativegates_ibm_tket_8: GUOQ=75 TKET=50 PYZX=54  → TKET wins
+  qgan_nativegates_ibm_tket_8: GUOQ=28 TKET=13 PYZX=7  → PYZX wins
+  qiskit-3_17_13: GUOQ=12 TKET=11 PYZX=16  → TKET wins
+  qiskit-alu-v0_26: GUOQ=29 TKET=29 PYZX=37  → GUOQ & TKET tie
+  qpeexact_nativegates_ibm_tket_8: GUOQ=64 TKET=50 PYZX=44  → PYZX wins
+  qpeinexact_nativegates_ibm_tket_8: GUOQ=65 TKET=51 PYZX=46  → PYZX wins
+  radd_250: GUOQ=1272 TKET=835 PYZX=1402  → TKET wins
+  rc_adder_6: GUOQ=80 TKET=73 PYZX=79  → TKET wins
+  rd32-v0_66: GUOQ=8 TKET=10 PYZX=10  → GUOQ wins
+  rd32-v1_68: GUOQ=8 TKET=10 PYZX=10  → GUOQ wins
+  rd32_270: GUOQ=25 TKET=12 PYZX=35  → TKET wins
+  rd53_130: GUOQ=348 TKET=274 PYZX=425  → TKET wins
+  rd53_131: GUOQ=135 TKET=100 PYZX=196  → TKET wins
+  rd53_133: GUOQ=216 TKET=135 PYZX=256  → TKET wins
+  rd53_135: GUOQ=112 TKET=83 PYZX=129  → TKET wins
+  rd53_138: GUOQ=42 TKET=50 PYZX=68  → GUOQ wins
+  rd53_251: GUOQ=423 TKET=320 PYZX=563  → TKET wins
+  rd53_311: GUOQ=89 TKET=86 PYZX=123  → TKET wins
+  rd73_140: GUOQ=79 TKET=92 PYZX=116  → GUOQ wins
+  rd73_252: GUOQ=2216 TKET=1364 PYZX=2312  → TKET wins
+  rd84_142: GUOQ=117 TKET=133 PYZX=168  → GUOQ wins
+  rd84_253: GUOQ=5960 TKET=3600 PYZX=5950  → TKET wins
+  root_255: GUOQ=7493 TKET=4247 PYZX=7488  → TKET wins
+  sao2_257: GUOQ=16864 TKET=9782 PYZX=16628  → TKET wins
+  sf_274: GUOQ=245 TKET=168 PYZX=328  → TKET wins
+  sf_276: GUOQ=294 TKET=194 PYZX=328  → TKET wins
+  shor_15_7: GUOQ=14858 TKET=9558 PYZX=12798  → TKET wins
+  sqn_258: GUOQ=4459 TKET=2734 PYZX=4455  → TKET wins
+  sqrt8_260: GUOQ=1256 TKET=755 PYZX=1305  → TKET wins
+  squar5_261: GUOQ=722 TKET=500 PYZX=868  → TKET wins
+  square_root_7: GUOQ=3089 TKET=1567 PYZX=2445  → TKET wins
+  sym10_262: GUOQ=28084 TKET=17069 PYZX=27854  → TKET wins
+  sym6_145: GUOQ=1587 TKET=974 PYZX=1634  → TKET wins
+  sym6_316: GUOQ=89 TKET=78 PYZX=121  → TKET wins
+  sym9_146: GUOQ=114 TKET=138 PYZX=162  → GUOQ wins
+  sym9_148: GUOQ=9408 TKET=4807 PYZX=9144  → TKET wins
+  sym9_193: GUOQ=15232 TKET=8920 PYZX=15083  → TKET wins
+  sys6-v0_111: GUOQ=74 TKET=89 PYZX=108  → GUOQ wins
+  tof_10: GUOQ=86 TKET=85 PYZX=93  → TKET wins
+  tof_3: GUOQ=16 TKET=15 PYZX=16  → TKET wins
+  tof_4: GUOQ=26 TKET=26 PYZX=27  → GUOQ & TKET tie
+  tof_5: GUOQ=36 TKET=35 PYZX=38  → TKET wins
+  urf1_149: GUOQ=80878 TKET=50302 PYZX=79833  → TKET wins
+  urf1_278: GUOQ=26692 TKET=17866 PYZX=24564  → TKET wins
+  urf2_152: GUOQ=35210 TKET=21777 PYZX=34632  → TKET wins
+  urf2_277: GUOQ=10066 TKET=6826 PYZX=9081  → TKET wins
+  [WARN] no PYZX result file for urf3_155 in results/pyzx_results/nam_rz (tried urf3_155.qasm and urf3_155_pyzx.qasm)
+  urf3_155: GUOQ=185276 TKET=185276 PYZX=N/A  → PYZX wins
+  urf3_279: GUOQ=60380 TKET=40842 PYZX=55577  → TKET wins
+  [WARN] no PYZX result file for urf4_187 in results/pyzx_results/nam_rz (tried urf4_187.qasm and urf4_187_pyzx.qasm)
+  urf4_187: GUOQ=224028 TKET=224028 PYZX=N/A  → PYZX wins
+  urf5_158: GUOQ=71932 TKET=42544 PYZX=70593  → TKET wins
+  urf5_280: GUOQ=23764 TKET=15941 PYZX=21907  → TKET wins
+  urf6_160: GUOQ=75180 TKET=46866 PYZX=73556  → TKET wins
+  vbe_adder_3: GUOQ=42 TKET=39 PYZX=65  → TKET wins
+  vqe_4: GUOQ=66 TKET=48 PYZX=54  → TKET wins
+  vqe_nativegates_ibm_tket_8: GUOQ=14 TKET=14 PYZX=12  → PYZX wins
+  vqe_uccsd_n4: GUOQ=72 TKET=17 PYZX=67  → TKET wins
+  vqe_uccsd_n6: GUOQ=1052 TKET=115 PYZX=801  → TKET wins
+  vqe_uccsd_n8: GUOQ=5488 TKET=457 PYZX=4127  → TKET wins
+  wim_266: GUOQ=333 TKET=242 PYZX=427  → TKET wins
+  xor5_254: GUOQ=5 TKET=5 PYZX=5  → GUOQ & PYZX & TKET tie
+  z4_268: GUOQ=1226 TKET=739 PYZX=1339  → TKET wins
+--- nam_rz Summary (Processed 250 benchmarks) ---
+  GUOQ wins on nam_rz: 26
+  TKET wins on nam_rz: 158
+  PYZX wins on nam_rz: 47
+  Benchmarks tied on nam_rz: 19
+  Overall for nam_rz: TKET is the winner for nam_rz (158 sole wins)
+
+[INFO] Skipping specified hardware: nam_t_tdg
+
+========================================
+=== OVERALL GRAND TOTALS ===
+========================================
+Total GUOQ sole wins across all processed hardware: 77
+Total TKET sole wins across all processed hardware (where results were found): 782
+Total PYZX sole wins across all processed hardware (where results were found): 47
+Total benchmarks tied across all hardware: 99
+Overall Result: TKET is the grand winner! (782 sole wins)
+========================================
